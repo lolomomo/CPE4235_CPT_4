@@ -7,7 +7,7 @@ package com.cpe4235.lecture4;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class Op extends Patient {
 

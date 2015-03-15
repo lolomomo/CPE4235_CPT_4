@@ -9,7 +9,7 @@ import junit.framework.TestCase;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class SumAvgReflectionPatientT extends TestCase {
 

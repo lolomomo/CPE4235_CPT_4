@@ -10,7 +10,7 @@ import java.util.Objects;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class Patient {
 
